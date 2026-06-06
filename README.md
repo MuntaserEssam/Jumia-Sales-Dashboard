@@ -4,6 +4,6 @@ A comprehensive E-commerce sales and customer behavior analysis project built us
 
 ## Dashboard Screenshots
 
-![Sales Overview](./Screenshot%202026-06-04%20125149.png)
+![Sales Overview](https://raw.githubusercontent.com/MuntaserEssam/Carrefour-Sales-Insights/main/Screenshot%202026-06-04%20125149.png)
 
-![Customer Analysis](./Screenshot%202026-06-04%20125206.png)
+![Customer Analysis](https://raw.githubusercontent.com/MuntaserEssam/Carrefour-Sales-Insights/main/Screenshot%202026-06-04%20125206.png)
